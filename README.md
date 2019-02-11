@@ -27,6 +27,8 @@ python3爬虫:
       https://www.cnblogs.com/ranyonsue/p/5984001.html
       一次完整的http请求
       https://www.cnblogs.com/xiaonantianmen/p/9426118.html
+      http历史
+      http://www.cnblogs.com/heluan/p/8620312.html
       
       
     
