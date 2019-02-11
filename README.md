@@ -21,8 +21,12 @@ python3爬虫:
       Host:发出请求的页面所在的域
       Referer:发出请求的页面的URL
       User-Agent:浏览器的用户代理字符串
+      爬虫3博客
       https://cuiqingcai.com/5465.html
+      http简介
       https://www.cnblogs.com/ranyonsue/p/5984001.html
+      一次完整的http请求
+      https://www.cnblogs.com/xiaonantianmen/p/9426118.html
       
       
     
