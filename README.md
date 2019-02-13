@@ -29,6 +29,8 @@ python3爬虫:
       https://www.cnblogs.com/xiaonantianmen/p/9426118.html
       http历史
       http://www.cnblogs.com/heluan/p/8620312.html
+      正则表达式
+      https://www.cnblogs.com/dyfblog/p/5880728.html
       
       
     
